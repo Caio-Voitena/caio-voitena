@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/caio-voitena/caio-voitena/output/snake.svg" alt="Snake animation" />
+
+###
